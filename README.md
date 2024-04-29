@@ -7,7 +7,7 @@ This repository details the steps to provision an HCP on your Openshift cluster 
 
 1. An existing AAP instance
 2. An OpenShift cluster with administrative access
-3. A Git repository containing the hcp-install playbook
+3. A Git repository containing the hcp-provisioning playbook
 
 ## Steps:
 
