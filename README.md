@@ -3,7 +3,7 @@ This repository details the steps to provision an HCP on your Openshift cluster 
 
 
   
-##Prerequisites:
+## Prerequisites:
 
 1. An existing AAP instance
 2. An OpenShift cluster with administrative access
